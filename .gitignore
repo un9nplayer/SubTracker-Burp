@@ -1,0 +1,11 @@
+.gradle/
+build/
+bin/
+gradle-8.10/
+gradle-wrapper.zip
+__pycache__/
+*.class
+*.jar
+.DS_Store
+.idea/
+*.iml
