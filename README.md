@@ -7,6 +7,8 @@
 
 **AgniOps SubTracker** brings active subdomain discovery directly inside **Burp Suite** (Community & Professional) using modern **Kotlin** and PortSwigger's **Montoya API**.
 
+> 💻 **CLI Version Available**: Prefer terminal tools? Check out the **SubTracker CLI tool** on GitHub: [github.com/un9nplayer/SubTracker](https://github.com/un9nplayer/SubTracker).
+
 ---
 
 ## 🚀 Features
@@ -87,13 +89,6 @@ cd SubTracker-Burp
 - **Target Domain Transmission**: Only the target domain string is sent to `https://app.agniops.in/api/v1/subdomains/scan`.
 - **API Key Security**: Sent strictly via `X-API-Key` header. API keys are excluded from Burp logging streams.
 - **No Interception**: SubTracker does not inspect, read, or transmit HTTP request/response bodies, session tokens, or non-target proxy traffic.
-
----
-
-## 💻 Other SubTracker Tools
-
-SubTracker is also available as a command-line tool for automated terminal workflows:
-- 💻 **SubTracker CLI**: [https://github.com/un9nplayer/SubTracker](https://github.com/un9nplayer/SubTracker)
 
 ---
 
