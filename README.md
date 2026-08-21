@@ -90,6 +90,13 @@ cd SubTracker-Burp
 
 ---
 
+## 💻 Other SubTracker Tools
+
+SubTracker is also available as a command-line tool for automated terminal workflows:
+- 💻 **SubTracker CLI**: [https://github.com/un9nplayer/SubTracker](https://github.com/un9nplayer/SubTracker)
+
+---
+
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for details.
